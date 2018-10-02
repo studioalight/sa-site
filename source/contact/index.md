@@ -7,6 +7,6 @@ date: 2018-02-21 17:04:33
 ---
 
 info@studioalight.com   
-Järnhallen 
+ICIA
 Järnmalmsgatan 5 
 Gothenburg, Sweden
